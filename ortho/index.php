@@ -4,5 +4,6 @@
 </head>
 <?
        header("Location:samil_ortho/orthoEdit.php");
+       
 ?>
 </html>
